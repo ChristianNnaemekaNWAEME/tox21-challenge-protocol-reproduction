@@ -1,0 +1,217 @@
+assay,seed,split,model,auc
+NR-AR,0,random,LASSO,0.7798503132977489
+NR-AR,0,random,Random Forest,0.7827744256207937
+NR-AR,0,random,Gradient boosting,0.7917614295660246
+NR-AR,0,scaffold,LASSO,0.8014416537116207
+NR-AR,0,scaffold,Random Forest,0.8050822240575204
+NR-AR,0,scaffold,Gradient boosting,0.8195017975126312
+NR-AR,1,random,LASSO,0.7543571594337433
+NR-AR,1,random,Random Forest,0.8137386864701788
+NR-AR,1,random,Gradient boosting,0.7795196101183569
+NR-AR,1,scaffold,LASSO,0.7225698179783984
+NR-AR,1,scaffold,Random Forest,0.7849735358664315
+NR-AR,1,scaffold,Gradient boosting,0.7629071818925083
+NR-AR,2,random,LASSO,0.8009572986771873
+NR-AR,2,random,Random Forest,0.8138953353446277
+NR-AR,2,random,Gradient boosting,0.7880946855418891
+NR-AR,2,scaffold,LASSO,0.8103980179028134
+NR-AR,2,scaffold,Random Forest,0.8472906010230179
+NR-AR,2,scaffold,Gradient boosting,0.8372122762148336
+NR-AR-LBD,0,random,LASSO,0.7977662837749642
+NR-AR-LBD,0,random,Random Forest,0.820584780054823
+NR-AR-LBD,0,random,Gradient boosting,0.8306356872470957
+NR-AR-LBD,0,scaffold,LASSO,0.623848810437452
+NR-AR-LBD,0,scaffold,Random Forest,0.8214057303658224
+NR-AR-LBD,0,scaffold,Gradient boosting,0.8332374008697877
+NR-AR-LBD,1,random,LASSO,0.8109580994648219
+NR-AR-LBD,1,random,Random Forest,0.9290888917895836
+NR-AR-LBD,1,random,Gradient boosting,0.8773658791280512
+NR-AR-LBD,1,scaffold,LASSO,0.8847659474118617
+NR-AR-LBD,1,scaffold,Random Forest,0.9394411036434382
+NR-AR-LBD,1,scaffold,Gradient boosting,0.9260700389105059
+NR-AR-LBD,2,random,LASSO,0.8253981203498238
+NR-AR-LBD,2,random,Random Forest,0.8845206239394334
+NR-AR-LBD,2,random,Gradient boosting,0.867298655527999
+NR-AR-LBD,2,scaffold,LASSO,0.8871230890083994
+NR-AR-LBD,2,scaffold,Random Forest,0.9110067073539186
+NR-AR-LBD,2,scaffold,Gradient boosting,0.9033274920941851
+NR-AhR,0,random,LASSO,0.8730983302411874
+NR-AhR,0,random,Random Forest,0.9022769438353855
+NR-AhR,0,random,Gradient boosting,0.9131950300781471
+NR-AhR,0,scaffold,LASSO,0.8459364741371662
+NR-AhR,0,scaffold,Random Forest,0.880409901517168
+NR-AhR,0,scaffold,Gradient boosting,0.8629979593647414
+NR-AhR,1,random,LASSO,0.8983583516051049
+NR-AhR,1,random,Random Forest,0.9206414797323889
+NR-AhR,1,random,Gradient boosting,0.9254118176196099
+NR-AhR,1,scaffold,LASSO,0.8522043934466467
+NR-AhR,1,scaffold,Random Forest,0.8827775050622813
+NR-AhR,1,scaffold,Gradient boosting,0.8689763964737885
+NR-AhR,2,random,LASSO,0.8842750323269806
+NR-AhR,2,random,Random Forest,0.9064710181593298
+NR-AhR,2,random,Gradient boosting,0.8980378928430877
+NR-AhR,2,scaffold,LASSO,0.8515550239234448
+NR-AhR,2,scaffold,Random Forest,0.8488712483688561
+NR-AhR,2,scaffold,Gradient boosting,0.8616159199652023
+NR-Aromatase,0,random,LASSO,0.8396947718343911
+NR-Aromatase,0,random,Random Forest,0.8800695074040497
+NR-Aromatase,0,random,Gradient boosting,0.8676941674221819
+NR-Aromatase,0,scaffold,LASSO,0.7605468034438544
+NR-Aromatase,0,scaffold,Random Forest,0.7587561824509984
+NR-Aromatase,0,scaffold,Gradient boosting,0.7475636563473164
+NR-Aromatase,1,random,LASSO,0.8470534904805077
+NR-Aromatase,1,random,Random Forest,0.8507479601087942
+NR-Aromatase,1,random,Gradient boosting,0.8363553943789664
+NR-Aromatase,1,scaffold,LASSO,0.7906795594950309
+NR-Aromatase,1,scaffold,Random Forest,0.8244157937147463
+NR-Aromatase,1,scaffold,Gradient boosting,0.7955949503088908
+NR-Aromatase,2,random,LASSO,0.8272136597159262
+NR-Aromatase,2,random,Random Forest,0.8478543366576006
+NR-Aromatase,2,random,Gradient boosting,0.8389996977938954
+NR-Aromatase,2,scaffold,LASSO,0.7483859126341474
+NR-Aromatase,2,scaffold,Random Forest,0.7246550495562609
+NR-Aromatase,2,scaffold,Gradient boosting,0.7258966552223014
+NR-ER,0,random,LASSO,0.7299490154711674
+NR-ER,0,random,Random Forest,0.7693360290670417
+NR-ER,0,random,Gradient boosting,0.7259464369432724
+NR-ER,0,scaffold,LASSO,0.7368728318095407
+NR-ER,0,scaffold,Random Forest,0.7772607139695746
+NR-ER,0,scaffold,Gradient boosting,0.7674287737578877
+NR-ER,1,random,LASSO,0.6950451242381621
+NR-ER,1,random,Random Forest,0.7173552508204406
+NR-ER,1,random,Gradient boosting,0.7157055789967182
+NR-ER,1,scaffold,LASSO,0.7443375853756528
+NR-ER,1,scaffold,Random Forest,0.7849964845319406
+NR-ER,1,scaffold,Gradient boosting,0.7671981719566091
+NR-ER,2,random,LASSO,0.7413590014064697
+NR-ER,2,random,Random Forest,0.7758233708391936
+NR-ER,2,random,Gradient boosting,0.7481276371308018
+NR-ER,2,scaffold,LASSO,0.7081221294114848
+NR-ER,2,scaffold,Random Forest,0.7816686894647915
+NR-ER,2,scaffold,Gradient boosting,0.7302848575712144
+NR-ER-LBD,0,random,LASSO,0.821038961038961
+NR-ER-LBD,0,random,Random Forest,0.8546753246753246
+NR-ER-LBD,0,random,Gradient boosting,0.841125541125541
+NR-ER-LBD,0,scaffold,LASSO,0.7770040042778621
+NR-ER-LBD,0,scaffold,Random Forest,0.8220376219729566
+NR-ER-LBD,0,scaffold,Gradient boosting,0.8232065726531864
+NR-ER-LBD,1,random,LASSO,0.7911147186147186
+NR-ER-LBD,1,random,Random Forest,0.8379329004329004
+NR-ER-LBD,1,random,Gradient boosting,0.7871753246753247
+NR-ER-LBD,1,scaffold,LASSO,0.8811709401709402
+NR-ER-LBD,1,scaffold,Random Forest,0.8661282051282051
+NR-ER-LBD,1,scaffold,Gradient boosting,0.8577179487179486
+NR-ER-LBD,2,random,LASSO,0.8331818181818181
+NR-ER-LBD,2,random,Random Forest,0.8587554112554112
+NR-ER-LBD,2,random,Gradient boosting,0.830487012987013
+NR-ER-LBD,2,scaffold,LASSO,0.8017891454006509
+NR-ER-LBD,2,scaffold,Random Forest,0.8333091948362928
+NR-ER-LBD,2,scaffold,Gradient boosting,0.8391796773165716
+NR-PPAR-gamma,0,random,LASSO,0.7442146619462914
+NR-PPAR-gamma,0,random,Random Forest,0.8284042828771264
+NR-PPAR-gamma,0,random,Gradient boosting,0.8117822295138589
+NR-PPAR-gamma,0,scaffold,LASSO,0.728166872564858
+NR-PPAR-gamma,0,scaffold,Random Forest,0.8025357154170231
+NR-PPAR-gamma,0,scaffold,Gradient boosting,0.7915993537964459
+NR-PPAR-gamma,1,random,LASSO,0.7888783352042138
+NR-PPAR-gamma,1,random,Random Forest,0.853574820827217
+NR-PPAR-gamma,1,random,Gradient boosting,0.8352258008807529
+NR-PPAR-gamma,1,scaffold,LASSO,0.6884102564102563
+NR-PPAR-gamma,1,scaffold,Random Forest,0.7364615384615385
+NR-PPAR-gamma,1,scaffold,Gradient boosting,0.736676923076923
+NR-PPAR-gamma,2,random,LASSO,0.8097962179431829
+NR-PPAR-gamma,2,random,Random Forest,0.7914256109144286
+NR-PPAR-gamma,2,random,Gradient boosting,0.7598868836888006
+NR-PPAR-gamma,2,scaffold,LASSO,0.7153188054882971
+NR-PPAR-gamma,2,scaffold,Random Forest,0.8020177562550443
+NR-PPAR-gamma,2,scaffold,Gradient boosting,0.7748345439870864
+SR-ARE,0,random,LASSO,0.7905496635379692
+SR-ARE,0,random,Random Forest,0.8458753457174589
+SR-ARE,0,random,Gradient boosting,0.846615779960365
+SR-ARE,0,scaffold,LASSO,0.7218567832261409
+SR-ARE,0,scaffold,Random Forest,0.7871779002567598
+SR-ARE,0,scaffold,Gradient boosting,0.76722674316492
+SR-ARE,1,random,LASSO,0.7825137742546657
+SR-ARE,1,random,Random Forest,0.8596496003832834
+SR-ARE,1,random,Gradient boosting,0.8554029922254405
+SR-ARE,1,scaffold,LASSO,0.740396598665542
+SR-ARE,1,scaffold,Random Forest,0.7787119410997776
+SR-ARE,1,scaffold,Gradient boosting,0.7950235830968634
+SR-ARE,2,random,LASSO,0.7960702541431652
+SR-ARE,2,random,Random Forest,0.8611685794551275
+SR-ARE,2,random,Gradient boosting,0.8624534506413467
+SR-ARE,2,scaffold,LASSO,0.7360222758919647
+SR-ARE,2,scaffold,Random Forest,0.784778435379566
+SR-ARE,2,scaffold,Gradient boosting,0.787098472181675
+SR-ATAD5,0,random,LASSO,0.8173418423973364
+SR-ATAD5,0,random,Random Forest,0.8941176470588235
+SR-ATAD5,0,random,Gradient boosting,0.8841426193118757
+SR-ATAD5,0,scaffold,LASSO,0.7798237488421
+SR-ATAD5,0,scaffold,Random Forest,0.8583982174598804
+SR-ATAD5,0,scaffold,Gradient boosting,0.7894249305259997
+SR-ATAD5,1,random,LASSO,0.7532325194228635
+SR-ATAD5,1,random,Random Forest,0.8305979467258602
+SR-ATAD5,1,random,Gradient boosting,0.8209766925638181
+SR-ATAD5,1,scaffold,LASSO,0.7001017941213895
+SR-ATAD5,1,scaffold,Random Forest,0.8544853034737243
+SR-ATAD5,1,scaffold,Gradient boosting,0.8406158544344063
+SR-ATAD5,2,random,LASSO,0.8255549389567148
+SR-ATAD5,2,random,Random Forest,0.8785654827968923
+SR-ATAD5,2,random,Gradient boosting,0.8932574916759157
+SR-ATAD5,2,scaffold,LASSO,0.7253093272510749
+SR-ATAD5,2,scaffold,Random Forest,0.7860949074541308
+SR-ATAD5,2,scaffold,Gradient boosting,0.7923016369618311
+SR-HSE,0,random,LASSO,0.7669806506013402
+SR-HSE,0,random,Random Forest,0.7997603514844894
+SR-HSE,0,random,Gradient boosting,0.7861136999068034
+SR-HSE,0,scaffold,LASSO,0.7791576086956523
+SR-HSE,0,scaffold,Random Forest,0.7803351449275362
+SR-HSE,0,scaffold,Gradient boosting,0.7767210144927537
+SR-HSE,1,random,LASSO,0.726911640704744
+SR-HSE,1,random,Random Forest,0.7730328851018506
+SR-HSE,1,random,Gradient boosting,0.7423889406648028
+SR-HSE,1,scaffold,LASSO,0.8159626038781163
+SR-HSE,1,scaffold,Random Forest,0.8333946502770083
+SR-HSE,1,scaffold,Gradient boosting,0.786303237534626
+SR-HSE,2,random,LASSO,0.8075933075933076
+SR-HSE,2,random,Random Forest,0.8239138152931257
+SR-HSE,2,random,Gradient boosting,0.8326343584964274
+SR-HSE,2,scaffold,LASSO,0.7788769331636392
+SR-HSE,2,scaffold,Random Forest,0.7688495506961317
+SR-HSE,2,scaffold,Gradient boosting,0.7492768714566702
+SR-MMP,0,random,LASSO,0.8782458502069334
+SR-MMP,0,random,Random Forest,0.9161891994125763
+SR-MMP,0,random,Gradient boosting,0.9214292866361086
+SR-MMP,0,scaffold,LASSO,0.8274436090225564
+SR-MMP,0,scaffold,Random Forest,0.8881684023723906
+SR-MMP,0,scaffold,Gradient boosting,0.8928478027366553
+SR-MMP,1,random,LASSO,0.8968281340394286
+SR-MMP,1,random,Random Forest,0.9341150816608073
+SR-MMP,1,random,Gradient boosting,0.937708602198389
+SR-MMP,1,scaffold,LASSO,0.8673882149491906
+SR-MMP,1,scaffold,Random Forest,0.9129711751662972
+SR-MMP,1,scaffold,Gradient boosting,0.9217504644333911
+SR-MMP,2,random,LASSO,0.8841061813003426
+SR-MMP,2,random,Random Forest,0.9242857460727159
+SR-MMP,2,random,Gradient boosting,0.9248475813270437
+SR-MMP,2,scaffold,LASSO,0.865504127413926
+SR-MMP,2,scaffold,Random Forest,0.9054573061807789
+SR-MMP,2,scaffold,Gradient boosting,0.9044748124330118
+SR-p53,0,random,LASSO,0.8071849070597505
+SR-p53,0,random,Random Forest,0.862847077365225
+SR-p53,0,random,Gradient boosting,0.8787651230705049
+SR-p53,0,scaffold,LASSO,0.766964464620083
+SR-p53,0,scaffold,Random Forest,0.8295987673513947
+SR-p53,0,scaffold,Gradient boosting,0.8050356182935002
+SR-p53,1,random,LASSO,0.8326611968664535
+SR-p53,1,random,Random Forest,0.8842163815880962
+SR-p53,1,random,Gradient boosting,0.8868863857599777
+SR-p53,1,scaffold,LASSO,0.798273324589114
+SR-p53,1,scaffold,Random Forest,0.8399746294483136
+SR-p53,1,scaffold,Gradient boosting,0.8175783438941333
+SR-p53,2,random,LASSO,0.8442961108793399
+SR-p53,2,random,Random Forest,0.8876465952811385
+SR-p53,2,random,Gradient boosting,0.8597969684327631
+SR-p53,2,scaffold,LASSO,0.7887942073525647
+SR-p53,2,scaffold,Random Forest,0.8531078050181213
+SR-p53,2,scaffold,Gradient boosting,0.8259295476240366

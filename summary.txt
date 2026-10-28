@@ -1,0 +1,22 @@
+Mean ROC-AUC over 12 assays x 3 seeds
+split              random  scaffold  random_minus_scaffold
+model                                                     
+Gradient boosting   0.839     0.813                  0.026
+LASSO               0.808     0.779                  0.029
+Random Forest       0.850     0.825                  0.025
+
+Per-assay mean ROC-AUC, random split
+model          Gradient boosting  LASSO  Random Forest
+assay                                                 
+NR-AR                      0.786  0.778          0.803
+NR-AR-LBD                  0.858  0.811          0.878
+NR-AhR                     0.912  0.885          0.910
+NR-Aromatase               0.848  0.838          0.860
+NR-ER                      0.730  0.722          0.754
+NR-ER-LBD                  0.820  0.815          0.850
+NR-PPAR-gamma              0.802  0.781          0.824
+SR-ARE                     0.855  0.790          0.856
+SR-ATAD5                   0.866  0.799          0.868
+SR-HSE                     0.787  0.767          0.799
+SR-MMP                     0.928  0.886          0.925
+SR-p53                     0.875  0.828          0.878
